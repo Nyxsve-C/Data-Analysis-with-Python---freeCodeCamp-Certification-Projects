@@ -5,3 +5,4 @@
 3. [Medical Data Visualizer](https://github.com/Nyxsve-C/Data-Analysis-with-Python---freeCodeCamp-Certification-Projects/tree/main/3.%20Medical%20Data%20Visualizer)
 4. [Page View Time Series Visualizer](https://github.com/Nyxsve-C/Data-Analysis-with-Python---freeCodeCamp-Certification-Projects/tree/main/4.%20Page%20View%20Time%20Series%20Visualizer)
 5. [Sea Level Predictor](https://github.com/Nyxsve-C/Data-Analysis-with-Python---freeCodeCamp-Certification-Projects/tree/main/5.%20Sea%20Level%20Predictor)
+![Data Analysis with Python Certification](https://github.com/user-attachments/assets/b02f46d5-c9bc-4672-818a-c9471dd45b69)
