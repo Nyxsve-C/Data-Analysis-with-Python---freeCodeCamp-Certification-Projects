@@ -7,7 +7,7 @@ We are still developing the interactive instructional part of the Python curricu
 * [Python for Everybody Video Course](https://www.freecodecamp.org/news/python-for-everybody/) (14 hours)
 * [How to Analyze Data with Python Pandas](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/) (10 hours)
 
-Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
+Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
 
 The input of the function should be a list containing 9 digits. The function should convert the list into a 3 x 3 Numpy array, and then return a dictionary containing the mean, variance, standard deviation, max, min, and sum along both axes and for the flattened matrix.
 
@@ -48,5 +48,5 @@ The unit tests for this project are in `test_module.py`. We imported the tests f
 ## Submitting
 Copy your project's URL and submit it to freeCodeCamp.
 
-##Test Result Screenshot
+## Test Result Screenshot
 ![Test result screenshot](https://github.com/user-attachments/assets/c28d18c3-f962-4185-874c-ebe96b69ec59)
