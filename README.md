@@ -8,3 +8,4 @@
 
 
 ![Data Analysis with Python Certification](https://github.com/user-attachments/assets/b02f46d5-c9bc-4672-818a-c9471dd45b69)
+[(certification link)](https://www.freecodecamp.org/certification/nyxsve/data-analysis-with-python-v7)
