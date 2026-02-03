@@ -1,4 +1,4 @@
-# Data Analysis with Python Certification Projects [![starline](https://starlines.qoo.monster/assets/OWNER/REPO)](https://github.com/qoomon/starline)
+# Data Analysis with Python Certification Projects
 
 1. [Mean-Variance-Standard Deviation Calculator](https://github.com/Nyxsve-C/Data-Analysis-with-Python---freeCodeCamp-Certification-Projects/tree/main/1.%20Mean-Variance-Standard%20Deviation%20Calculator)
 2. [Demographic Data Analyzer](https://github.com/Nyxsve-C/Data-Analysis-with-Python---freeCodeCamp-Certification-Projects/tree/main/2.%20Demographic%20Data%20Analyzer)
@@ -9,4 +9,5 @@
 
 ![Data Analysis with Python Certification](https://github.com/user-attachments/assets/b02f46d5-c9bc-4672-818a-c9471dd45b69)
 [(certification link)](https://www.freecodecamp.org/certification/nyxsve/data-analysis-with-python-v7)
+
 
